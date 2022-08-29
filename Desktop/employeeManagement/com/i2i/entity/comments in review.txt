@@ -1,0 +1,17 @@
+comments
+try with resource
+deleted name change 
+import
+comments
+loggers
+throw exception to controller
+boolean is added preffix(is active flag)
+boolean getmethod is preffix
+remove duplicate code// want to change
+class level comments in impl and interface
+wildcard imports
+method level comments
+use only logger
+use only particular exception
+no printstacktrace
+difference between queries
