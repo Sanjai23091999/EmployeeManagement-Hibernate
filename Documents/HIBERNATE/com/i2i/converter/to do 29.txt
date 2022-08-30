@@ -1,0 +1,5 @@
+cascade,lazy,
+
+retvuve alll
+retrive by id 
+update by id
