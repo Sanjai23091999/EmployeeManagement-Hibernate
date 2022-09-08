@@ -1,0 +1,568 @@
+2022-09-07 11:55:19 INFO  EmployeeController:45 - Please enter one of the below options to proceed further
+2022-09-07 11:55:19 INFO  EmployeeController:46 -  Enter 1 for add details 
+ Enter 2 for display Details 
+ Enter 3 for Delete details 
+ Enter 4 for update 
+ Enter 5 for Associate Trainer or Trainee 
+ Enter Any other for Exit
+2022-09-07 11:55:21 INFO  EmployeeController:51 -  Enter 1 for add Trainer 
+ Enter 2 add Trainee
+2022-09-07 16:50:50 INFO  EmployeeController:46 - Please enter one of the below options to proceed further
+2022-09-07 16:50:50 INFO  EmployeeController:47 -  Enter 1 for add details 
+ Enter 2 for display Details 
+ Enter 3 for Delete details 
+ Enter 4 for update 
+ Enter 5 for Associate Trainer or Trainee 
+ Enter Any other for Exit
+2022-09-07 16:50:54 INFO  EmployeeController:52 -  Enter 1 for add Trainer 
+ Enter 2 add Trainee
+2022-09-07 16:50:55 INFO  EmployeeController:152 - Enter Employee Name
+2022-09-07 16:50:55 INFO  EmployeeController:155 - Enter date of birth 
+2022-09-07 16:50:59 INFO  EmployeeController:165 - Enter date of Join in YYYY-MM-DD format: 
+2022-09-07 16:51:00 INFO  EmployeeController:175 - Enter your mobile Number
+2022-09-07 16:52:24 INFO  EmployeeController:46 - Please enter one of the below options to proceed further
+2022-09-07 16:52:24 INFO  EmployeeController:47 -  Enter 1 for add details 
+ Enter 2 for display Details 
+ Enter 3 for Delete details 
+ Enter 4 for update 
+ Enter 5 for Associate Trainer or Trainee 
+ Enter Any other for Exit
+2022-09-07 16:52:25 INFO  EmployeeController:52 -  Enter 1 for add Trainer 
+ Enter 2 add Trainee
+2022-09-07 16:52:26 INFO  EmployeeController:152 - Enter Employee Name
+2022-09-07 16:52:28 INFO  EmployeeController:155 - Enter date of birth 
+2022-09-07 16:52:36 INFO  EmployeeController:165 - Enter date of Join in YYYY-MM-DD format: 
+2022-09-07 16:56:34 INFO  EmployeeController:46 - Please enter one of the below options to proceed further
+2022-09-07 16:56:34 INFO  EmployeeController:47 -  Enter 1 for add details 
+ Enter 2 for display Details 
+ Enter 3 for Delete details 
+ Enter 4 for update 
+ Enter 5 for Associate Trainer or Trainee 
+ Enter Any other for Exit
+2022-09-07 16:56:35 INFO  EmployeeController:52 -  Enter 1 for add Trainer 
+ Enter 2 add Trainee
+2022-09-07 16:56:36 INFO  EmployeeController:152 - Enter Employee Name
+2022-09-07 16:56:38 INFO  EmployeeController:155 - Enter date of birth 
+2022-09-07 16:56:42 INFO  EmployeeController:161 -  Invalid Enter the correct value
+2022-09-07 16:56:59 INFO  EmployeeController:161 -  Invalid Enter the correct value
+2022-09-07 16:57:11 INFO  EmployeeController:161 -  Invalid Enter the correct value
+2022-09-07 16:57:16 INFO  EmployeeController:161 -  Invalid Enter the correct value
+2022-09-07 16:57:19 INFO  EmployeeController:161 -  Invalid Enter the correct value
+2022-09-07 16:57:20 INFO  EmployeeController:161 -  Invalid Enter the correct value
+2022-09-07 16:57:43 INFO  EmployeeController:161 -  Invalid Enter the correct value
+2022-09-07 16:58:36 INFO  EmployeeController:46 - Please enter one of the below options to proceed further
+2022-09-07 16:58:36 INFO  EmployeeController:47 -  Enter 1 for add details 
+ Enter 2 for display Details 
+ Enter 3 for Delete details 
+ Enter 4 for update 
+ Enter 5 for Associate Trainer or Trainee 
+ Enter Any other for Exit
+2022-09-07 16:58:38 INFO  EmployeeController:52 -  Enter 1 for add Trainer 
+ Enter 2 add Trainee
+2022-09-07 16:58:39 INFO  EmployeeController:152 - Enter Employee Name
+2022-09-07 16:58:40 INFO  EmployeeController:155 - Enter date of birth 
+2022-09-07 16:58:42 INFO  EmployeeController:162 -  Invalid Enter the correct value
+2022-09-07 16:58:47 INFO  EmployeeController:162 -  Invalid Enter the correct value
+2022-09-07 16:58:52 INFO  EmployeeController:162 -  Invalid Enter the correct value
+2022-09-07 17:00:46 INFO  EmployeeController:46 - Please enter one of the below options to proceed further
+2022-09-07 17:00:46 INFO  EmployeeController:47 -  Enter 1 for add details 
+ Enter 2 for display Details 
+ Enter 3 for Delete details 
+ Enter 4 for update 
+ Enter 5 for Associate Trainer or Trainee 
+ Enter Any other for Exit
+2022-09-07 17:00:53 INFO  EmployeeController:52 -  Enter 1 for add Trainer 
+ Enter 2 add Trainee
+2022-09-07 17:00:54 INFO  EmployeeController:152 - Enter Employee Name
+2022-09-07 17:00:54 INFO  EmployeeController:155 - Enter date of birth 
+2022-09-07 17:01:00 INFO  EmployeeController:162 -  Invalid Enter the correct value
+2022-09-07 17:01:10 INFO  EmployeeController:162 -  Invalid Enter the correct value
+2022-09-07 17:01:16 INFO  EmployeeController:162 -  Invalid Enter the correct value
+2022-09-07 17:01:18 INFO  EmployeeController:162 -  Invalid Enter the correct value
+2022-09-07 17:30:17 INFO  EmployeeController:46 - Please enter one of the below options to proceed further
+2022-09-07 17:30:17 INFO  EmployeeController:47 -  Enter 1 for add details 
+ Enter 2 for display Details 
+ Enter 3 for Delete details 
+ Enter 4 for update 
+ Enter 5 for Associate Trainer or Trainee 
+ Enter Any other for Exit
+2022-09-07 17:30:19 INFO  EmployeeController:52 -  Enter 1 for add Trainer 
+ Enter 2 add Trainee
+2022-09-07 17:30:20 INFO  EmployeeController:152 - Enter Employee Name
+2022-09-07 17:30:22 INFO  EmployeeController:155 - Enter date of birth 
+2022-09-07 17:30:24 INFO  EmployeeController:162 -  Invalid Enter the correct value
+2022-09-07 17:30:29 INFO  EmployeeController:162 -  Invalid Enter the correct value
+2022-09-07 17:30:35 INFO  EmployeeController:162 -  Invalid Enter the correct value
+2022-09-07 17:30:42 INFO  EmployeeController:162 -  Invalid Enter the correct value
+2022-09-07 17:31:32 INFO  EmployeeController:162 -  Invalid Enter the correct value
+2022-09-07 17:32:41 INFO  EmployeeController:46 - Please enter one of the below options to proceed further
+2022-09-07 17:32:41 INFO  EmployeeController:47 -  Enter 1 for add details 
+ Enter 2 for display Details 
+ Enter 3 for Delete details 
+ Enter 4 for update 
+ Enter 5 for Associate Trainer or Trainee 
+ Enter Any other for Exit
+2022-09-07 17:32:42 INFO  EmployeeController:52 -  Enter 1 for add Trainer 
+ Enter 2 add Trainee
+2022-09-07 17:32:42 INFO  EmployeeController:152 - Enter Employee Name
+2022-09-07 17:32:43 INFO  EmployeeController:155 - Enter date of birth 
+2022-09-07 17:32:55 INFO  EmployeeController:162 -  Invalid Enter the correct value
+2022-09-07 17:34:03 INFO  EmployeeController:162 -  Invalid Enter the correct value
+2022-09-07 17:34:08 INFO  EmployeeController:166 - Enter date of Join in YYYY-MM-DD format: 
+2022-09-07 17:34:27 INFO  EmployeeController:176 - Enter your mobile Number
+2022-09-07 17:34:37 INFO  EmployeeController:46 - Please enter one of the below options to proceed further
+2022-09-07 17:34:37 INFO  EmployeeController:47 -  Enter 1 for add details 
+ Enter 2 for display Details 
+ Enter 3 for Delete details 
+ Enter 4 for update 
+ Enter 5 for Associate Trainer or Trainee 
+ Enter Any other for Exit
+2022-09-07 17:34:38 INFO  EmployeeController:52 -  Enter 1 for add Trainer 
+ Enter 2 add Trainee
+2022-09-07 17:34:38 INFO  EmployeeController:152 - Enter Employee Name
+2022-09-07 17:34:39 INFO  EmployeeController:155 - Enter date of birth 
+2022-09-07 17:34:47 INFO  EmployeeController:162 -  Invalid Enter the correct value
+2022-09-07 17:34:53 INFO  EmployeeController:166 - Enter date of Join in YYYY-MM-DD format: 
+2022-09-07 17:35:26 INFO  EmployeeController:176 - Enter your mobile Number
+2022-09-07 18:22:31 INFO  EmployeeController:46 - Please enter one of the below options to proceed further
+2022-09-07 18:22:31 INFO  EmployeeController:47 -  Enter 1 for add details 
+ Enter 2 for display Details 
+ Enter 3 for Delete details 
+ Enter 4 for update 
+ Enter 5 for Associate Trainer or Trainee 
+ Enter Any other for Exit
+2022-09-07 18:24:08 INFO  EmployeeController:46 - Please enter one of the below options to proceed further
+2022-09-07 18:24:08 INFO  EmployeeController:47 -  Enter 1 for add details 
+ Enter 2 for display Details 
+ Enter 3 for Delete details 
+ Enter 4 for update 
+ Enter 5 for Associate Trainer or Trainee 
+ Enter Any other for Exit
+2022-09-07 18:24:09 INFO  EmployeeController:52 -  Enter 1 for add Trainer 
+ Enter 2 add Trainee
+2022-09-07 18:24:09 INFO  EmployeeController:152 - Enter Employee Name
+2022-09-07 18:24:10 INFO  EmployeeController:155 - Enter date of birth 
+2022-09-07 18:24:19 INFO  EmployeeController:166 - Enter date of Join in YYYY-MM-DD format: 
+2022-09-07 18:24:27 INFO  EmployeeController:176 - Enter your mobile Number
+2022-09-08 02:07:17 INFO  EmployeeController:47 - Please enter one of the below options to proceed further
+2022-09-08 02:07:17 INFO  EmployeeController:48 -  Enter 1 for add details 
+ Enter 2 for display Details 
+ Enter 3 for Delete details 
+ Enter 4 for update 
+ Enter 5 for Associate Trainer or Trainee 
+ Enter Any other for Exit
+2022-09-08 02:07:19 INFO  EmployeeController:53 -  Enter 1 for add Trainer 
+ Enter 2 add Trainee
+2022-09-08 02:07:20 INFO  EmployeeController:153 - Enter Employee Name
+2022-09-08 02:07:21 INFO  EmployeeController:156 - Enter date of birth 
+2022-09-08 02:07:28 INFO  EmployeeController:165 -  Invalid Enter the correct value
+2022-09-08 02:07:57 INFO  EmployeeController:165 -  Invalid Enter the correct value
+2022-09-08 02:08:06 INFO  EmployeeController:165 -  Invalid Enter the correct value
+2022-09-08 02:10:27 INFO  EmployeeController:47 - Please enter one of the below options to proceed further
+2022-09-08 02:10:27 INFO  EmployeeController:48 -  Enter 1 for add details 
+ Enter 2 for display Details 
+ Enter 3 for Delete details 
+ Enter 4 for update 
+ Enter 5 for Associate Trainer or Trainee 
+ Enter Any other for Exit
+2022-09-08 02:10:28 INFO  EmployeeController:53 -  Enter 1 for add Trainer 
+ Enter 2 add Trainee
+2022-09-08 02:10:28 INFO  EmployeeController:153 - Enter Employee Name
+2022-09-08 02:10:29 INFO  EmployeeController:156 - Enter date of birth 
+2022-09-08 02:10:34 INFO  EmployeeController:165 -  Invalid Enter the correct value
+2022-09-08 02:13:31 INFO  EmployeeController:165 -  Invalid Enter the correct value
+2022-09-08 02:15:19 INFO  EmployeeController:47 - Please enter one of the below options to proceed further
+2022-09-08 02:15:19 INFO  EmployeeController:48 -  Enter 1 for add details 
+ Enter 2 for display Details 
+ Enter 3 for Delete details 
+ Enter 4 for update 
+ Enter 5 for Associate Trainer or Trainee 
+ Enter Any other for Exit
+2022-09-08 02:15:21 INFO  EmployeeController:53 -  Enter 1 for add Trainer 
+ Enter 2 add Trainee
+2022-09-08 02:15:21 INFO  EmployeeController:153 - Enter Employee Name
+2022-09-08 02:15:23 INFO  EmployeeController:156 - Enter date of birth 
+2022-09-08 02:15:29 INFO  EmployeeController:166 -  Invalid Enter the correct value
+2022-09-08 02:29:21 INFO  EmployeeController:166 -  Invalid Enter the correct value
+2022-09-08 02:31:40 INFO  EmployeeController:47 - Please enter one of the below options to proceed further
+2022-09-08 02:31:40 INFO  EmployeeController:48 -  Enter 1 for add details 
+ Enter 2 for display Details 
+ Enter 3 for Delete details 
+ Enter 4 for update 
+ Enter 5 for Associate Trainer or Trainee 
+ Enter Any other for Exit
+2022-09-08 02:31:42 INFO  EmployeeController:53 -  Enter 1 for add Trainer 
+ Enter 2 add Trainee
+2022-09-08 02:31:42 INFO  EmployeeController:153 - Enter Employee Name
+2022-09-08 02:31:43 INFO  EmployeeController:156 - Enter date of birth 
+2022-09-08 02:35:57 INFO  EmployeeController:47 - Please enter one of the below options to proceed further
+2022-09-08 02:35:57 INFO  EmployeeController:48 -  Enter 1 for add details 
+ Enter 2 for display Details 
+ Enter 3 for Delete details 
+ Enter 4 for update 
+ Enter 5 for Associate Trainer or Trainee 
+ Enter Any other for Exit
+2022-09-08 02:35:57 INFO  EmployeeController:53 -  Enter 1 for add Trainer 
+ Enter 2 add Trainee
+2022-09-08 02:35:58 INFO  EmployeeController:153 - Enter Employee Name
+2022-09-08 02:35:59 INFO  EmployeeController:156 - Enter date of birth 
+2022-09-08 02:36:03 INFO  EmployeeController:166 -  Invalid Enter the correct value
+2022-09-08 02:36:44 INFO  EmployeeController:47 - Please enter one of the below options to proceed further
+2022-09-08 02:36:44 INFO  EmployeeController:48 -  Enter 1 for add details 
+ Enter 2 for display Details 
+ Enter 3 for Delete details 
+ Enter 4 for update 
+ Enter 5 for Associate Trainer or Trainee 
+ Enter Any other for Exit
+2022-09-08 02:36:45 INFO  EmployeeController:53 -  Enter 1 for add Trainer 
+ Enter 2 add Trainee
+2022-09-08 02:36:45 INFO  EmployeeController:153 - Enter Employee Name
+2022-09-08 02:36:46 INFO  EmployeeController:156 - Enter date of birth 
+2022-09-08 02:36:50 INFO  EmployeeController:163 -  I
+2022-09-08 02:36:50 INFO  EmployeeController:172 - Enter date of Join in YYYY-MM-DD format: 
+2022-09-08 02:36:50 INFO  EmployeeController:175 - Enter your mobile Number
+2022-09-08 02:39:20 INFO  EmployeeController:47 - Please enter one of the below options to proceed further
+2022-09-08 02:39:20 INFO  EmployeeController:48 -  Enter 1 for add details 
+ Enter 2 for display Details 
+ Enter 3 for Delete details 
+ Enter 4 for update 
+ Enter 5 for Associate Trainer or Trainee 
+ Enter Any other for Exit
+2022-09-08 02:39:20 INFO  EmployeeController:53 -  Enter 1 for add Trainer 
+ Enter 2 add Trainee
+2022-09-08 02:39:21 INFO  EmployeeController:47 - Please enter one of the below options to proceed further
+2022-09-08 02:39:21 INFO  EmployeeController:48 -  Enter 1 for add details 
+ Enter 2 for display Details 
+ Enter 3 for Delete details 
+ Enter 4 for update 
+ Enter 5 for Associate Trainer or Trainee 
+ Enter Any other for Exit
+2022-09-08 02:39:24 INFO  EmployeeController:53 -  Enter 1 for add Trainer 
+ Enter 2 add Trainee
+2022-09-08 02:39:25 INFO  EmployeeController:153 - Enter Employee Name
+2022-09-08 02:39:26 INFO  EmployeeController:156 - Enter date of birth 
+2022-09-08 02:39:36 INFO  EmployeeController:166 -  Invalid Enter the correct value
+2022-09-08 02:40:16 INFO  EmployeeController:47 - Please enter one of the below options to proceed further
+2022-09-08 02:40:16 INFO  EmployeeController:48 -  Enter 1 for add details 
+ Enter 2 for display Details 
+ Enter 3 for Delete details 
+ Enter 4 for update 
+ Enter 5 for Associate Trainer or Trainee 
+ Enter Any other for Exit
+2022-09-08 02:40:17 INFO  EmployeeController:53 -  Enter 1 for add Trainer 
+ Enter 2 add Trainee
+2022-09-08 02:40:18 INFO  EmployeeController:153 - Enter Employee Name
+2022-09-08 02:40:19 INFO  EmployeeController:156 - Enter date of birth 
+2022-09-08 02:40:25 INFO  EmployeeController:166 -  Invalid Enter the correct value
+2022-09-08 02:41:35 INFO  EmployeeController:47 - Please enter one of the below options to proceed further
+2022-09-08 02:41:35 INFO  EmployeeController:48 -  Enter 1 for add details 
+ Enter 2 for display Details 
+ Enter 3 for Delete details 
+ Enter 4 for update 
+ Enter 5 for Associate Trainer or Trainee 
+ Enter Any other for Exit
+2022-09-08 02:41:49 INFO  EmployeeController:47 - Please enter one of the below options to proceed further
+2022-09-08 02:41:50 INFO  EmployeeController:48 -  Enter 1 for add details 
+ Enter 2 for display Details 
+ Enter 3 for Delete details 
+ Enter 4 for update 
+ Enter 5 for Associate Trainer or Trainee 
+ Enter Any other for Exit
+2022-09-08 02:41:51 INFO  EmployeeController:53 -  Enter 1 for add Trainer 
+ Enter 2 add Trainee
+2022-09-08 02:41:51 INFO  EmployeeController:153 - Enter Employee Name
+2022-09-08 02:41:52 INFO  EmployeeController:156 - Enter date of birth 
+2022-09-08 02:41:59 INFO  EmployeeController:163 -  I
+2022-09-08 02:41:59 INFO  EmployeeController:172 - Enter date of Join in YYYY-MM-DD format: 
+2022-09-08 02:41:59 INFO  EmployeeController:175 - Enter your mobile Number
+2022-09-08 02:43:09 INFO  EmployeeController:47 - Please enter one of the below options to proceed further
+2022-09-08 02:43:09 INFO  EmployeeController:48 -  Enter 1 for add details 
+ Enter 2 for display Details 
+ Enter 3 for Delete details 
+ Enter 4 for update 
+ Enter 5 for Associate Trainer or Trainee 
+ Enter Any other for Exit
+2022-09-08 02:43:11 INFO  EmployeeController:53 -  Enter 1 for add Trainer 
+ Enter 2 add Trainee
+2022-09-08 02:43:12 INFO  EmployeeController:153 - Enter Employee Name
+2022-09-08 02:43:13 INFO  EmployeeController:156 - Enter date of birth 
+2022-09-08 02:43:30 INFO  EmployeeController:163 -  I
+2022-09-08 02:43:30 INFO  EmployeeController:172 - Enter date of Join in YYYY-MM-DD format: 
+2022-09-08 02:43:30 INFO  EmployeeController:175 - Enter your mobile Number
+2022-09-08 02:44:46 INFO  EmployeeController:47 - Please enter one of the below options to proceed further
+2022-09-08 02:44:46 INFO  EmployeeController:48 -  Enter 1 for add details 
+ Enter 2 for display Details 
+ Enter 3 for Delete details 
+ Enter 4 for update 
+ Enter 5 for Associate Trainer or Trainee 
+ Enter Any other for Exit
+2022-09-08 02:44:47 INFO  EmployeeController:53 -  Enter 1 for add Trainer 
+ Enter 2 add Trainee
+2022-09-08 02:44:48 INFO  EmployeeController:153 - Enter Employee Name
+2022-09-08 02:44:48 INFO  EmployeeController:156 - Enter date of birth 
+2022-09-08 02:45:00 INFO  EmployeeController:166 -  Invalid Enter the correct value
+2022-09-08 02:53:32 INFO  EmployeeController:47 - Please enter one of the below options to proceed further
+2022-09-08 02:53:32 INFO  EmployeeController:48 -  Enter 1 for add details 
+ Enter 2 for display Details 
+ Enter 3 for Delete details 
+ Enter 4 for update 
+ Enter 5 for Associate Trainer or Trainee 
+ Enter Any other for Exit
+2022-09-08 02:53:33 INFO  EmployeeController:53 -  Enter 1 for add Trainer 
+ Enter 2 add Trainee
+2022-09-08 02:53:34 INFO  EmployeeController:153 - Enter Employee Name
+2022-09-08 02:53:34 INFO  EmployeeController:156 - Enter date of birth 
+2022-09-08 02:56:23 INFO  EmployeeController:47 - Please enter one of the below options to proceed further
+2022-09-08 02:56:23 INFO  EmployeeController:48 -  Enter 1 for add details 
+ Enter 2 for display Details 
+ Enter 3 for Delete details 
+ Enter 4 for update 
+ Enter 5 for Associate Trainer or Trainee 
+ Enter Any other for Exit
+2022-09-08 02:59:13 INFO  EmployeeController:48 - Please enter one of the below options to proceed further
+2022-09-08 02:59:13 INFO  EmployeeController:49 -  Enter 1 for add details 
+ Enter 2 for display Details 
+ Enter 3 for Delete details 
+ Enter 4 for update 
+ Enter 5 for Associate Trainer or Trainee 
+ Enter Any other for Exit
+2022-09-08 02:59:14 INFO  EmployeeController:54 -  Enter 1 for add Trainer 
+ Enter 2 add Trainee
+2022-09-08 02:59:15 INFO  EmployeeController:154 - Enter Employee Name
+2022-09-08 02:59:15 INFO  EmployeeController:157 - Enter date of birth 
+2022-09-08 02:59:21 INFO  EmployeeController:164 -  I
+2022-09-08 02:59:21 INFO  EmployeeController:173 - Enter date of Join in YYYY-MM-DD format: 
+2022-09-08 02:59:21 INFO  EmployeeController:176 - Enter your mobile Number
+2022-09-08 02:59:47 INFO  EmployeeController:48 - Please enter one of the below options to proceed further
+2022-09-08 02:59:47 INFO  EmployeeController:49 -  Enter 1 for add details 
+ Enter 2 for display Details 
+ Enter 3 for Delete details 
+ Enter 4 for update 
+ Enter 5 for Associate Trainer or Trainee 
+ Enter Any other for Exit
+2022-09-08 02:59:48 INFO  EmployeeController:54 -  Enter 1 for add Trainer 
+ Enter 2 add Trainee
+2022-09-08 02:59:49 INFO  EmployeeController:154 - Enter Employee Name
+2022-09-08 02:59:49 INFO  EmployeeController:157 - Enter date of birth 
+2022-09-08 03:00:25 INFO  EmployeeController:48 - Please enter one of the below options to proceed further
+2022-09-08 03:00:25 INFO  EmployeeController:49 -  Enter 1 for add details 
+ Enter 2 for display Details 
+ Enter 3 for Delete details 
+ Enter 4 for update 
+ Enter 5 for Associate Trainer or Trainee 
+ Enter Any other for Exit
+2022-09-08 03:00:25 INFO  EmployeeController:54 -  Enter 1 for add Trainer 
+ Enter 2 add Trainee
+2022-09-08 03:00:26 INFO  EmployeeController:154 - Enter Employee Name
+2022-09-08 03:00:27 INFO  EmployeeController:157 - Enter date of birth 
+2022-09-08 03:02:03 INFO  EmployeeController:48 - Please enter one of the below options to proceed further
+2022-09-08 03:02:03 INFO  EmployeeController:49 -  Enter 1 for add details 
+ Enter 2 for display Details 
+ Enter 3 for Delete details 
+ Enter 4 for update 
+ Enter 5 for Associate Trainer or Trainee 
+ Enter Any other for Exit
+2022-09-08 03:02:04 INFO  EmployeeController:54 -  Enter 1 for add Trainer 
+ Enter 2 add Trainee
+2022-09-08 03:02:05 INFO  EmployeeController:154 - Enter Employee Name
+2022-09-08 03:02:05 INFO  EmployeeController:157 - Enter date of birth 
+2022-09-08 03:27:16 INFO  EmployeeController:48 - Please enter one of the below options to proceed further
+2022-09-08 03:27:16 INFO  EmployeeController:49 -  Enter 1 for add details 
+ Enter 2 for display Details 
+ Enter 3 for Delete details 
+ Enter 4 for update 
+ Enter 5 for Associate Trainer or Trainee 
+ Enter Any other for Exit
+2022-09-08 03:27:17 INFO  EmployeeController:54 -  Enter 1 for add Trainer 
+ Enter 2 add Trainee
+2022-09-08 03:27:18 INFO  EmployeeController:154 - Enter Employee Name
+2022-09-08 03:27:18 INFO  EmployeeController:157 - Enter date of birth 
+2022-09-08 03:41:19 INFO  EmployeeController:48 - Please enter one of the below options to proceed further
+2022-09-08 03:41:19 INFO  EmployeeController:49 -  Enter 1 for add details 
+ Enter 2 for display Details 
+ Enter 3 for Delete details 
+ Enter 4 for update 
+ Enter 5 for Associate Trainer or Trainee 
+ Enter Any other for Exit
+2022-09-08 03:41:20 INFO  EmployeeController:54 -  Enter 1 for add Trainer 
+ Enter 2 add Trainee
+2022-09-08 03:41:20 INFO  EmployeeController:48 - Please enter one of the below options to proceed further
+2022-09-08 03:41:20 INFO  EmployeeController:49 -  Enter 1 for add details 
+ Enter 2 for display Details 
+ Enter 3 for Delete details 
+ Enter 4 for update 
+ Enter 5 for Associate Trainer or Trainee 
+ Enter Any other for Exit
+2022-09-08 03:41:22 INFO  EmployeeController:54 -  Enter 1 for add Trainer 
+ Enter 2 add Trainee
+2022-09-08 03:41:22 INFO  EmployeeController:154 - Enter Employee Name
+2022-09-08 03:41:23 INFO  EmployeeController:157 - Enter date of birth 
+2022-09-08 03:41:37 INFO  EmployeeController:171 - Enter date of Join in YYYY-MM-DD format: 
+2022-09-08 03:41:37 INFO  EmployeeController:174 - Enter your mobile Number
+2022-09-08 04:14:21 INFO  EmployeeController:48 - Please enter one of the below options to proceed further
+2022-09-08 04:14:21 INFO  EmployeeController:49 -  Enter 1 for add details 
+ Enter 2 for display Details 
+ Enter 3 for Delete details 
+ Enter 4 for update 
+ Enter 5 for Associate Trainer or Trainee 
+ Enter Any other for Exit
+2022-09-08 04:14:22 INFO  EmployeeController:54 -  Enter 1 for add Trainer 
+ Enter 2 add Trainee
+2022-09-08 04:14:22 INFO  EmployeeController:156 - Enter Employee Name
+2022-09-08 04:14:23 INFO  EmployeeController:159 - Enter date of birth
+2022-09-08 04:14:30 INFO  EmployeeController:172 - Enter date of Join 
+2022-09-08 04:14:43 INFO  EmployeeController:185 - Enter your mobile Number
+2022-09-08 04:15:02 INFO  EmployeeController:192 -  Invalid Enter the correct value
+2022-09-08 04:15:06 INFO  EmployeeController:192 -  Invalid Enter the correct value
+2022-09-08 04:15:12 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.6.10.Final
+2022-09-08 04:15:13 WARN  deprecation:99 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2022-09-08 04:15:13 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-09-08 04:15:13 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-09-08 04:15:13 INFO  pooling:119 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/sanjai]
+2022-09-08 04:15:13 INFO  pooling:128 - HHH10001001: Connection properties: {user=root, password=****}
+2022-09-08 04:15:13 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2022-09-08 04:15:13 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-09-08 04:15:14 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-09-08 04:15:15 INFO  access:48 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@a20b94b] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2022-09-08 04:15:15 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-09-08 04:15:16 INFO  EmployeeController:48 - Please enter one of the below options to proceed further
+2022-09-08 04:15:16 INFO  EmployeeController:49 -  Enter 1 for add details 
+ Enter 2 for display Details 
+ Enter 3 for Delete details 
+ Enter 4 for update 
+ Enter 5 for Associate Trainer or Trainee 
+ Enter Any other for Exit
+2022-09-08 04:16:13 INFO  EmployeeController:54 -  Enter 1 for add Trainer 
+ Enter 2 add Trainee
+2022-09-08 04:16:14 INFO  EmployeeController:156 - Enter Employee Name
+2022-09-08 04:16:15 INFO  EmployeeController:159 - Enter date of birth
+2022-09-08 04:16:24 INFO  EmployeeController:172 - Enter date of Join 
+2022-09-08 04:16:43 INFO  EmployeeController:185 - Enter your mobile Number
+2022-09-08 04:16:59 INFO  EmployeeController:48 - Please enter one of the below options to proceed further
+2022-09-08 04:16:59 INFO  EmployeeController:49 -  Enter 1 for add details 
+ Enter 2 for display Details 
+ Enter 3 for Delete details 
+ Enter 4 for update 
+ Enter 5 for Associate Trainer or Trainee 
+ Enter Any other for Exit
+2022-09-08 04:17:00 INFO  EmployeeController:54 -  Enter 1 for add Trainer 
+ Enter 2 add Trainee
+2022-09-08 04:17:01 INFO  EmployeeController:156 - Enter Employee Name
+2022-09-08 04:17:02 INFO  EmployeeController:159 - Enter date of birth
+2022-09-08 04:17:13 INFO  EmployeeController:172 - Enter date of Join 
+2022-09-08 04:17:37 INFO  EmployeeController:185 - Enter your mobile Number
+2022-09-08 04:18:38 INFO  EmployeeController:48 - Please enter one of the below options to proceed further
+2022-09-08 04:18:38 INFO  EmployeeController:49 -  Enter 1 for add details 
+ Enter 2 for display Details 
+ Enter 3 for Delete details 
+ Enter 4 for update 
+ Enter 5 for Associate Trainer or Trainee 
+ Enter Any other for Exit
+2022-09-08 04:18:39 INFO  EmployeeController:54 -  Enter 1 for add Trainer 
+ Enter 2 add Trainee
+2022-09-08 04:18:40 INFO  EmployeeController:156 - Enter Employee Name
+2022-09-08 04:18:40 INFO  EmployeeController:159 - Enter date of birth
+2022-09-08 04:18:45 INFO  EmployeeController:172 - Enter date of Join 
+2022-09-08 04:18:55 INFO  EmployeeController:185 - Enter your mobile Number
+2022-09-08 04:25:10 INFO  EmployeeController:48 - Please enter one of the below options to proceed further
+2022-09-08 04:25:10 INFO  EmployeeController:49 -  Enter 1 for add details 
+ Enter 2 for display Details 
+ Enter 3 for Delete details 
+ Enter 4 for update 
+ Enter 5 for Associate Trainer or Trainee 
+ Enter Any other for Exit
+2022-09-08 04:25:42 INFO  EmployeeController:48 - Please enter one of the below options to proceed further
+2022-09-08 04:25:42 INFO  EmployeeController:49 -  Enter 1 for add details 
+ Enter 2 for display Details 
+ Enter 3 for Delete details 
+ Enter 4 for update 
+ Enter 5 for Associate Trainer or Trainee 
+ Enter Any other for Exit
+2022-09-08 04:25:43 INFO  EmployeeController:54 -  Enter 1 for add Trainer 
+ Enter 2 add Trainee
+2022-09-08 04:25:43 INFO  EmployeeController:156 - Enter Employee Name
+2022-09-08 04:25:44 INFO  EmployeeController:159 - Enter date of birth
+2022-09-08 04:25:50 INFO  EmployeeController:172 - Enter date of Join 
+2022-09-08 09:48:02 INFO  EmployeeController:48 - Please enter one of the below options to proceed further
+2022-09-08 09:48:02 INFO  EmployeeController:49 -  Enter 1 for add details 
+ Enter 2 for display Details 
+ Enter 3 for Delete details 
+ Enter 4 for update 
+ Enter 5 for Associate Trainer or Trainee 
+ Enter Any other for Exit
+2022-09-08 09:48:40 INFO  EmployeeController:64 -  Enter 1 for Display All Employee 
+ Enter 2 for Display specific Employee
+2022-09-08 09:48:46 INFO  EmployeeController:48 - Please enter one of the below options to proceed further
+2022-09-08 09:48:46 INFO  EmployeeController:49 -  Enter 1 for add details 
+ Enter 2 for display Details 
+ Enter 3 for Delete details 
+ Enter 4 for update 
+ Enter 5 for Associate Trainer or Trainee 
+ Enter Any other for Exit
+2022-09-08 09:48:47 INFO  EmployeeController:54 -  Enter 1 for add Trainer 
+ Enter 2 add Trainee
+2022-09-08 09:48:47 INFO  EmployeeController:156 - Enter Employee Name
+2022-09-08 09:49:08 INFO  EmployeeController:159 - Enter date of birth
+2022-09-08 09:49:20 INFO  EmployeeController:166 -  Invalid Enter the correct value
+2022-09-08 09:49:48 INFO  EmployeeController:166 -  Invalid Enter the correct value
+2022-09-08 09:50:04 INFO  EmployeeController:166 -  Invalid Enter the correct value
+2022-09-08 09:50:15 INFO  EmployeeController:172 - Enter date of Join 
+2022-09-08 09:50:24 INFO  EmployeeController:179 -  Invalid Enter the correct value
+2022-09-08 09:52:59 INFO  EmployeeController:48 - Please enter one of the below options to proceed further
+2022-09-08 09:52:59 INFO  EmployeeController:49 -  Enter 1 for add details 
+ Enter 2 for display Details 
+ Enter 3 for Delete details 
+ Enter 4 for update 
+ Enter 5 for Associate Trainer or Trainee 
+ Enter Any other for Exit
+2022-09-08 09:53:08 INFO  EmployeeController:54 -  Enter 1 for add Trainer 
+ Enter 2 add Trainee
+2022-09-08 09:53:10 INFO  EmployeeController:156 - Enter Employee Name
+2022-09-08 09:53:18 INFO  EmployeeController:159 - Enter date of birth
+2022-09-08 09:53:25 INFO  EmployeeController:166 -  Invalid Enter the correct value
+2022-09-08 09:53:34 INFO  EmployeeController:166 -  Invalid Enter the correct value
+2022-09-08 09:53:47 INFO  EmployeeController:172 - Enter date of Join 
+2022-09-08 09:55:23 INFO  EmployeeController:48 - Please enter one of the below options to proceed further
+2022-09-08 09:55:23 INFO  EmployeeController:49 -  Enter 1 for add details 
+ Enter 2 for display Details 
+ Enter 3 for Delete details 
+ Enter 4 for update 
+ Enter 5 for Associate Trainer or Trainee 
+ Enter Any other for Exit
+2022-09-08 09:55:24 INFO  EmployeeController:54 -  Enter 1 for add Trainer 
+ Enter 2 add Trainee
+2022-09-08 09:55:24 INFO  EmployeeController:156 - Enter Employee Name
+2022-09-08 09:55:25 INFO  EmployeeController:159 - Enter date of birth
+2022-09-08 09:55:30 INFO  EmployeeController:166 -  Invalid Enter the correct value
+2022-09-08 10:08:06 INFO  EmployeeController:48 - Please enter one of the below options to proceed further
+2022-09-08 10:08:06 INFO  EmployeeController:49 -  Enter 1 for add details 
+ Enter 2 for display Details 
+ Enter 3 for Delete details 
+ Enter 4 for update 
+ Enter 5 for Associate Trainer or Trainee 
+ Enter Any other for Exit
+2022-09-08 10:08:07 INFO  EmployeeController:54 -  Enter 1 for add Trainer 
+ Enter 2 add Trainee
+2022-09-08 10:08:08 INFO  EmployeeController:156 - Enter Employee Name
+2022-09-08 10:08:09 INFO  EmployeeController:159 - Enter date of birth
+2022-09-08 10:08:30 INFO  EmployeeController:172 - Enter date of Join 
+2022-09-08 10:09:35 INFO  EmployeeController:185 - Enter your mobile Number
+2022-09-08 10:12:31 INFO  EmployeeController:192 -  Invalid Enter the correct value
+2022-09-08 10:12:31 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.6.10.Final
+2022-09-08 10:12:32 WARN  deprecation:99 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2022-09-08 10:12:32 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-09-08 10:12:32 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-09-08 10:12:32 INFO  pooling:119 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/sanjai]
+2022-09-08 10:12:32 INFO  pooling:128 - HHH10001001: Connection properties: {user=root, password=****}
+2022-09-08 10:12:32 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2022-09-08 10:12:32 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-09-08 10:12:34 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-09-08 10:12:35 INFO  access:48 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@592238c5] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2022-09-08 10:12:35 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-09-08 10:12:36 INFO  EmployeeController:48 - Please enter one of the below options to proceed further
+2022-09-08 10:12:36 INFO  EmployeeController:49 -  Enter 1 for add details 
+ Enter 2 for display Details 
+ Enter 3 for Delete details 
+ Enter 4 for update 
+ Enter 5 for Associate Trainer or Trainee 
+ Enter Any other for Exit
